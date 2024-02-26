@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100 receitas de bolo fofinho gostosas que vão aquecer seu coração
+title: 100 receitas de bolo fofinho
 category: receita
 ---
 

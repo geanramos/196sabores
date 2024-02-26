@@ -2,22 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-- title: Todas as Receitas
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Historico
       show_more_url: archive.html
 
-  - title: Todas as Tags
+  - title: posts by category
     post_list:
       category: receita
       show_more: true
-      show_more_text: Receitas 
+      show_more_text: See more posts...
       show_more_url: receita.html
 
   - title: rss
     url: feed.xml
-  
-    entries:
-      - title: 196sabores.50x.com.br
+ 
